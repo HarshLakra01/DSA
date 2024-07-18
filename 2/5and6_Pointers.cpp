@@ -97,24 +97,24 @@ using namespace std;
 
 
 //Size occupied by pointers of different data types
-struct Rectangle
-{
-    int Length;                //User defined data-types like structures can also have pointers
-    int Breadth;
-};
+// struct Rectangle
+// {
+//     int Length;                //User defined data-types like structures can also have pointers
+//     int Breadth;
+// };
 
-int main()
-{
-    int *p1;
-    char *p2;
-    float *p3;
-    double *p4;
-    Rectangle *p5;
+// int main()
+// {
+//     int *p1;
+//     char *p2;
+//     float *p3;
+//     double *p4;
+//     Rectangle *p5;
 
-    cout << sizeof(p1) << endl;
-    cout << sizeof(p2) << endl;
-    cout << sizeof(p3) << endl;          /*Pointers occupy same space. Be it integer pointer, char pointer, user defined data-type pointer
-                                           or any other type of pointer */
-    cout << sizeof(p4) << endl;            
-    cout << sizeof(p5) << endl;
-}
+//     cout << sizeof(p1) << endl;
+//     cout << sizeof(p2) << endl;
+//     cout << sizeof(p3) << endl;          /*Pointers occupy same space. Be it integer pointer, char pointer, user defined data-type pointer
+//                                            or any other type of pointer */
+//     cout << sizeof(p4) << endl;            
+//     cout << sizeof(p5) << endl;
+// }
