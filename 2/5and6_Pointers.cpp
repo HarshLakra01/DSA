@@ -114,7 +114,7 @@ using namespace std;
 //     cout << sizeof(p1) << endl;
 //     cout << sizeof(p2) << endl;
 //     cout << sizeof(p3) << endl;          /*Pointers occupy same space. Be it integer pointer, char pointer, user defined data-type pointer
-//                                            or any other type of pointer */
+//                                            or any other type of pointer. Here, it is occupying 4 bytes(compiler dependent) */
 //     cout << sizeof(p4) << endl;            
 //     cout << sizeof(p5) << endl;
 // }

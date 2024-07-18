@@ -53,7 +53,7 @@ using namespace std;
 
 
 /*We can also make an array of structures. For example, there are 5 employees in a company, and each employee has 3 qualities 
- like Reg No , Salary, Bank Balance. So 10 structures can be initialized at once */
+ like Reg No , Salary, Bank Balance. So 5 structures can be initialized at once */
 
 // int main()
 // {
