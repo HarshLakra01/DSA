@@ -5,7 +5,7 @@ using namespace std;
 
 
 //We can also define and initialize a structure outside the main function, well in that case the structure will be accessible globally.
-//Also, we can initialize a structure just after declaring it and it's much convenient
+//Also, we can initialize a structure just after declaring it and it's much convenient if we just want it for 1-2 entities.
 
 struct dish
     {

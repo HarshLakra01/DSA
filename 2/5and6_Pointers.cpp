@@ -13,6 +13,7 @@ using namespace std;
 //     cout << &a << endl;  //it gives the same result like cout << p because p and &a are same(address of a)
 //     cout << &p << endl;  //&p will print address of the pointer variable
 //     cout << *p << endl;  //writing *p will print value at address of a
+
 // }
 
 
